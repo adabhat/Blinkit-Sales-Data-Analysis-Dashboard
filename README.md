@@ -5,7 +5,7 @@ This project presents an interactive Excel dashboard built using Blinkit's retai
 
 ## 📂 Project Files:
 - 📊 **[Dashboard Excel File](./Blinkit_Sales_Dashboard.xlsx)**  
-- 🗂 **[Dataset](./Blinkit_Sales_Data.csv)**  
+- 🗂 **[Dataset](./blinkit_dataset.xlsx)**  
 - 🎥 **[Demo Video](./blinkit%20dasboard%20demonstration.mp4)**  
 
 ---
