@@ -10,6 +10,16 @@ A Blinkit-Themed Grocery Sales Dashboard using Excel — focused on transforming
 - 🎥 **[Demo Video](./blinkit%20dasboard%20demonstration.mp4)**  
 
 ---
+## ✔️ Business Requirements:
+- Understand the impact of **Outlet Location (City Tiers)** on sales  
+- Identify **underperforming outlet categories** (by Location, Type, and Size)  
+- Analyze **rating patterns** to flag low-rated product groups  
+- Study how **outlet establishment year** impacts sales performance  
+- Identify **underperforming product types**  
+- Analyze how **food fat content** is preferred across regions  
+- Uncover insights to **optimize outlet distribution strategy**  
+
+---
 
 ## ✅ Key Insights:
 1️⃣ **High-size outlets**, though the fewest in number, bring in the highest average sales.  
@@ -27,17 +37,6 @@ Medium-sized outlets, despite being the most common, generate the lowest average
 2) **Re-evaluate Medium-Size outlets**, especially in Tier-1 and Tier-2 where they’re most common but least efficient.  
 3) **Tailor product offerings by fat content** based on regional health trends.  
 4) **Investigate anomalies** like the 2018 Tier-3 spike to replicate success.  
-
----
-
-## ✔️ Business Requirements:
-- Understand the impact of **Outlet Location (City Tiers)** on sales  
-- Identify **underperforming outlet categories** (by Location, Type, and Size)  
-- Analyze **rating patterns** to flag low-rated product groups  
-- Study how **outlet establishment year** impacts sales performance  
-- Identify **underperforming product types**  
-- Analyze how **food fat content** is preferred across regions  
-- Uncover insights to **optimize outlet distribution strategy**  
 
 ---
 
