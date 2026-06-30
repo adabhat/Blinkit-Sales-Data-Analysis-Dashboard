@@ -4,9 +4,9 @@ This project presents an interactive Excel dashboard built using Blinkit's retai
 ---
 
 ## 📂 Project Files:
-- 📊 **[Dashboard Excel File](./Blinkit_Dashboard-Sales_&_Inventory_Analytics.xlsx)**  
-- 🗂 **[Dataset](./blinkit_dataset.xlsx)**  
-- 🎥 **[Demo Video](./blinkit_dasboard_demonstration.mp4)**  
+- 📊 **[Dashboard Excel File](./Blinkit%20Dashboard-%20Sales%20%26%20Inventory%20Analytics.xlsx)**
+- 📂 **[Dataset](./blinkit_dataset.xlsx)**
+- 🎥 **[Demo Video](./blinkit_dashboard%20demonstration.mp4)**
 
 ---
 ## ✔️ Business Requirements:
