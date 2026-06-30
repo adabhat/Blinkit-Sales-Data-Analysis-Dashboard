@@ -1,6 +1,5 @@
 # Blinkit Sales & Inventory Analytics Dashboard
-
-A Blinkit-Themed Grocery Sales Analysis Dashboard using Excel — focused on transforming raw data into actionable business insights.
+This project presents an interactive Excel dashboard built using Blinkit's retail sales dataset containing over 8,500 records. The dashboard analyzes sales performance, outlet performance, customer ratings, and product categories while extending the analysis through ABC Inventory Classification to support inventory planning and replenishment decisions.
 
 ---
 
@@ -17,7 +16,8 @@ A Blinkit-Themed Grocery Sales Analysis Dashboard using Excel — focused on tra
 - Study how **outlet establishment year** impacts sales performance  
 - Identify **underperforming product types**  
 - Analyze how **food fat content** is preferred across regions  
-- Uncover insights to **optimize outlet distribution strategy**  
+- Uncover insights to **optimize outlet distribution strategy**
+- Prioritize product categories for **inventory planning using ABC Inventory Classification**
 
 ---
 
@@ -31,12 +31,15 @@ Medium-sized outlets, despite being the most common, generate the lowest average
 
 4️⃣ A **spike in sales in 2018** was mainly due to a Tier-3 Medium Supermarket 3 store ($130K in sales).  
 
+5️⃣ **ABC Inventory Classification showed that just 8 of the 16 product categories generated nearly 80% of total sales**, highlighting clear priorities for inventory allocation and replenishment.
+
 ---
 ## 💡Business Recommendations:
 1) **Re-assess outlet allocation** — expand High-Size outlets in Tier-2 cities (high sales despite fewer locations).  
 2) **Re-evaluate Medium-Size outlets**, especially in Tier-1 and Tier-2 where they’re most common but least efficient.  
 3) **Tailor product offerings by fat content** based on regional health trends.  
-4) **Investigate anomalies** like the 2018 Tier-3 spike to replicate success.  
+4) **Investigate anomalies** like the 2018 Tier-3 spike to replicate success.
+5) Allocate inventory budgets based on ABC classification by **prioritizing Category A products, maintaining balanced stock for Category B, and reducing excess inventory for Category C products** to improve inventory efficiency.
 
 ---
 
@@ -49,12 +52,13 @@ Medium-sized outlets, despite being the most common, generate the lowest average
 - **Emoji-Based Sentiment Scoring** by Product Category  
 - **Sales Distribution** by Year of Store Establishment  
 - **Regional Preferences** by Fat Content Classification  
-- **Peak Sales Year Identification** across All Outlets  
+- **Peak Sales Year Identification** across All Outlets
+- **ABC Inventory Classification** for inventory prioritization and replenishment planning
 
 ---
 
 ## 🛠 Tools Used:
-- Excel (Pivot Tables/Charts, Conditional Formatting, Dynamic Formulas, Custom Data Labels & Auto-updating Emoji/Star System)  
+- Excel (Pivot Tables, Pivot Charts, Conditional Formatting, Dynamic Formulas, Dashboard Design, ABC Inventory Classification, Custom Data Labels & Auto-updating Emoji/Star System)
 
 ---
 
