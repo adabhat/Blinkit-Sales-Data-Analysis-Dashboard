@@ -22,6 +22,13 @@ Medium-sized outlets, despite being the most common, generate the lowest average
 4️⃣ A **spike in sales in 2018** was mainly due to a Tier-3 Medium Supermarket 3 store ($130K in sales).  
 
 ---
+## 💡Business Recommendations:
+1) **Re-assess outlet allocation** — expand High-Size outlets in Tier-2 cities (high sales despite fewer locations).  
+2) **Re-evaluate Medium-Size outlets**, especially in Tier-1 and Tier-2 where they’re most common but least efficient.  
+3) **Tailor product offerings by fat content** based on regional health trends.  
+4) **Investigate anomalies** like the 2018 Tier-3 spike to replicate success.  
+
+---
 
 ## ✔️ Business Requirements:
 - Understand the impact of **Outlet Location (City Tiers)** on sales  
@@ -44,14 +51,6 @@ Medium-sized outlets, despite being the most common, generate the lowest average
 - **Sales Distribution** by Year of Store Establishment  
 - **Regional Preferences** by Fat Content Classification  
 - **Peak Sales Year Identification** across All Outlets  
-
----
-
-## 💡Business Recommendations:
-1) **Re-assess outlet allocation** — expand High-Size outlets in Tier-2 cities (high sales despite fewer locations).  
-2) **Re-evaluate Medium-Size outlets**, especially in Tier-1 and Tier-2 where they’re most common but least efficient.  
-3) **Tailor product offerings by fat content** based on regional health trends.  
-4) **Investigate anomalies** like the 2018 Tier-3 spike to replicate success.  
 
 ---
 
