@@ -1,6 +1,6 @@
-# Blinkit-Sales-Data-Analysis-Dashboard
+# Blinkit Sales & Inventory Analytics Dashboard
 
-A Blinkit-Themed Grocery Sales Dashboard using Excel — focused on transforming raw data into actionable business insights.
+A Blinkit-Themed Grocery Sales Analysis Dashboard using Excel — focused on transforming raw data into actionable business insights.
 
 ---
 
